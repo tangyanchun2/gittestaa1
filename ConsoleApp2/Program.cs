@@ -11,6 +11,7 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
             Console.WriteLine("h2");
+            Console.ReadKey();
         }
     }
 }
